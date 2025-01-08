@@ -3,3 +3,6 @@
 
 # Ignore Jupyter notebooks files
 *.ipynb
+
+# Ignore house_prices virtual environment
+venv/
